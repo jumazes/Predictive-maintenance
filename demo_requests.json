@@ -1,0 +1,18 @@
+{
+  "normal_example": {
+    "type": "M",
+    "air_temperature_k": 300.0,
+    "process_temperature_k": 310.2,
+    "rotational_speed_rpm": 1550,
+    "torque_nm": 38.0,
+    "tool_wear_min": 80
+  },
+  "risk_example": {
+    "type": "L",
+    "air_temperature_k": 300.0,
+    "process_temperature_k": 307.8,
+    "rotational_speed_rpm": 1320,
+    "torque_nm": 58.0,
+    "tool_wear_min": 190
+  }
+}

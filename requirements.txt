@@ -1,0 +1,12 @@
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+xgboost==3.1.3
+shap==0.50.0
+matplotlib==3.10.8
+joblib==1.5.3
+fastapi==0.128.2
+uvicorn==0.48.0
+pydantic>=2.0,<3.0
+jupyter>=1.0
+nbformat==5.10.4

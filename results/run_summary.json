@@ -1,0 +1,28 @@
+{
+  "rows": 10000,
+  "failures": 373,
+  "failure_rate": 0.0373,
+  "split": {
+    "train": 7000,
+    "validation": 1500,
+    "test": 1500
+  },
+  "final_model": "XGBoost",
+  "final_threshold": 0.375,
+  "final_test_metrics": {
+    "model": "XGBoost",
+    "threshold": 0.375,
+    "accuracy": 0.9846666666666667,
+    "precision": 0.7704918032786885,
+    "recall": 0.8392857142857143,
+    "f1": 0.8034188034188035,
+    "f2": 0.8245614035087719,
+    "roc_auc": 0.9865824099722992,
+    "pr_auc": 0.8976604853070898,
+    "tn": 1430,
+    "fp": 14,
+    "fn": 9,
+    "tp": 47
+  },
+  "note": "Results are produced on the bundled offline AI4I-style replica, not the original UCI CSV."
+}

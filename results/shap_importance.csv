@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+numeric__Rotational speed [rpm],1.5172554
+numeric__Tool wear [min],1.2202855
+numeric__Mechanical power [W],1.063557
+numeric__Wear × torque,0.86112237
+numeric__Temperature gap [K],0.81484735
+numeric__Torque [Nm],0.5862914
+numeric__Process temperature [K],0.29828814
+numeric__Air temperature [K],0.28309107
+categorical__Type_L,0.10591331
+categorical__Type_H,0.085164264
+categorical__Type_M,0.050855696
